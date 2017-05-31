@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:hgnc="http://bio2rdf.org/hgnc_vocabulary:">
+<rdf:Description rdf:about="http://bio2rdf.org/hgnc:10596">
+    <rdf:type rdf:resource="http://bio2rdf.org/hgnc_vocabulary:Gene-Symbol"/>
+    <hgnc:approved-symbol>SCN8A</hgnc:approved-symbol>
+</rdf:Description>
+<rdf:Description rdf:about="http://bio2rdf.org/hgnc:1100">
+    <rdf:type rdf:resource="http://bio2rdf.org/hgnc_vocabulary:Gene-Symbol"/>
+    <hgnc:approved-symbol>BRCA1</hgnc:approved-symbol>
+</rdf:Description>
+</rdf:RDF>
